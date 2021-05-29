@@ -1,0 +1,24 @@
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.exe.config
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.exe
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.pdb
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.xml
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.Form1.resources
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.Resources.resources
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.exe
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.xml
+c:\documents and settings\alumno_2\mis documentos\visual studio 2010\Projects\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.exe.config
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\bin\Debug\waEnlaceVB2.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.vbprojAssemblyReference.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.Form1.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.Resources.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.vbproj.GenerateResource.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\waEnlaceVB2\waEnlaceVB2\obj\x86\Debug\waEnlaceVB2.pdb
